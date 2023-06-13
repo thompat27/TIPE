@@ -1,0 +1,5 @@
+mois-jour-heure-1*température-1*humdité-1*nébulosité-1*var_consommation: 11689.100395
+mois_2-jour_semaine-heure_2-1*température-1*humdité-1*nébulosité-1*var_consommation: 3786.793347
+mois_2-jour_semaine-heure_2-n*température-n*humdité-n*nébulosité-n*var_consommation: 2474.276808
+mois_2-jour_semaine-heure_2-0*température-0*humdité-0*nébulosité-n*var_consommation: 2522.882758
+mois_2-jour_semaine-heure_2-1*température-1*humdité-1*nébulosité-n*var_consommation: 2546.144102
